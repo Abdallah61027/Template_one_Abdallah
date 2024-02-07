@@ -163,7 +163,7 @@ header .links:hover ul{
 }
 @media (max-width:767px) {
     .landing .intro-text{
-        top: 35%;
+        top: 40%;
         width: 90%;
     }
 }
