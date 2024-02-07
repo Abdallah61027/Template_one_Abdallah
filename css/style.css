@@ -163,7 +163,8 @@ header .links:hover ul{
 }
 @media (max-width:767px) {
     .landing .intro-text{
-        top: 45%;
+        top: 35%;
+        width: 90%;
     }
 }
 .landing .intro-text h2{
@@ -172,20 +173,10 @@ header .links:hover ul{
     color: var(--main-color);
     font-weight: bold;
 }
-@media (max-width:767px) {
-    .landing .intro-text h2 {
-        font-size: 25px;
-    }
-}
 .landing .intro-text p{
     font-size: 25px;
     line-height: 1.8;
     font-weight: 400;
-}
-@media (max-width:767px) {
-    .landing .intro-text p {
-        font-size: 18px;
-    }
 }
 /* end landing section */
 /* Start features */
